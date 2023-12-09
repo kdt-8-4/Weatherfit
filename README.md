@@ -1,6 +1,5 @@
 # Weatherfit
 
-
 ## ERD
 <img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/ffb4edb4-7c64-4404-b43a-0fdb308076a6">
 <br/>
@@ -8,25 +7,46 @@
 ## 기술스택
 <div align=center> 
   <p>Frontend</p>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white">
-  <img src="https://img.shields.io/badge/kakaomap-ffcd00?style=flat&logo=kakao&logoColor=white">
-  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?stype=flat&logo=axios&logoColor=white">
+  <img src="https://img.shields.io/badge/Kakaomap-ffcd00?style=flat&logo=kakao&logoColor=white">
+  <img src="https://img.shields.io/badge/Openweather-E64A19?style=flat&logo=&logoColor=white">
+  
+  
   <p>Backend</p>
-  <img src="https://img.shields.io/badge/java-E64A19?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
-  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=spring security&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat&logo=spring boot&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white">
+  <br/>
+
+  <p>Infra</p>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?&logo=amazon ec2&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?&logo=amazonrds&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS S3-569A31?&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?&logo=nginx&logoColor=white">
+
+  <br/>
+
+  <p>Collab Tools</p>
+  <img src="https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white">
 </div>
 
 ## 팀원
