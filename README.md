@@ -3,7 +3,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/papicc45"><img src="https://github.com/papicc45.png" width="100px;" alt=""/><br /><sub><b>이동준</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/papicc45"><img src="https://github.com/papicc45.png" width="100px;" alt=""/><br /><b>이동준</b></a><br /></td>
       <td align="center"><a href="https://github.com/Johyunik"><img src="https://github.com/Johyunik.png" width="100px;" alt=""/><br /><sub><b>조현익</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/HeeSung98"><img src="https://github.com/HeeSung98.png" width="100px;" alt=""/><br /><sub><b>윤희성</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/nebulaBdj"><img src="https://github.com/nebulaBdj.png" width="100px;" alt=""/><br /><sub><b>황동준</b></sub></a><br /></td>
