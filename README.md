@@ -1,5 +1,11 @@
 # Weatherfit
 
+
+#ERD
+<img src="![ERD](https://github.com/kdt-8-4/Weatherfit/assets/118866032/ffb4edb4-7c64-4404-b43a-0fdb308076a6)
+"/>
+<br/>
+
 <table>
   <tbody>
     <tr>
