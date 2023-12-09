@@ -6,7 +6,7 @@
 
 ## 기술스택
 <div align=center> 
-  <p>Frontend</p>
+  <p><b>Frontend</b></p>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <br/>
@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?stype=flat&logo=axios&logoColor=white">
   <img src="https://img.shields.io/badge/Kakaomap-ffcd00?style=flat&logo=kakao&logoColor=white">
   <img src="https://img.shields.io/badge/Openweather-E64A19?style=flat&logo=&logoColor=white">
+  <br/>
   
-  
-  <p>Backend</p>
+  <p><b>Backend</b></p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white">
   <br/>
 
-  <p>Infra</p>
+  <p><b>Infra</b></p>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?&logo=amazon ec2&logoColor=white">
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?&logo=amazonrds&logoColor=white">
   <img src="https://img.shields.io/badge/AWS S3-569A31?&logo=amazons3&logoColor=white">
@@ -42,7 +42,7 @@
 
   <br/>
 
-  <p>Collab Tools</p>
+  <p><b>Collab Tools</b></p>
   <img src="https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?&logo=Postman&logoColor=white">
