@@ -10,7 +10,7 @@
 
 ## 기술스택
 <div align=center> 
-  <p style="font-size : 30px;">Frontend</p>
+  <p><b>Frontend</b></p>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <br/>
