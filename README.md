@@ -1,11 +1,11 @@
 # Weatherfit
 
 
-# ERD
+## ERD
 <img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/ffb4edb4-7c64-4404-b43a-0fdb308076a6">
 <br/>
 
-# 기술스택
+## 기술스택
 <div align=center> 
   <p>Frontend</p>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
@@ -15,10 +15,21 @@
   <img src="https://img.shields.io/badge/kakaomap-ffcd00?style=flat&logo=kakao&logoColor=white">
   <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
   <p>Backend</p>
-
+  <img src="https://img.shields.io/badge/java-E64A19?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
+  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/openweather-E64A19?style=flat&logo=&logoColor=white">
 </div>
 
-# 팀원
+## 팀원
 
 <table>
   <tbody>
