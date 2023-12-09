@@ -2,7 +2,11 @@
 
 ## ERD
 <img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/ffb4edb4-7c64-4404-b43a-0fdb308076a6">
-<br/>
+<br/><br/>
+
+## 시스템 아키텍처
+<img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/86ce85e9-1194-4884-862e-a98db115ef89">
+<br/><br/>
 
 ## 기술스택
 <div align=center> 
