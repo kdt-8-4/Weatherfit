@@ -1,4 +1,4 @@
-# Weatherfit
+<img src="https://github.com/papicc45/papicc45/assets/118866032/ef9049d9-cfa3-40e9-aff1-ecba31c04140">
 
 ## 프로젝트 Repository
 <a href="https://github.com/kdt-8-4/Weatherfit_Backend">Backend Repository</a><br/>
