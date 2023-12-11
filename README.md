@@ -5,7 +5,7 @@
 <a href="https://github.com/kdt-8-4/weatherfit-frontend">Frontend Repository</a><br/><br/>
 
 ## 프로젝트 URL
-<p>https://weatherfit-frontend.vercel.app/</p><br/>
+<p>https://weatherfit.vercel.app/</p><br/>
 
 ## 프로젝트 진행기간
 <p>2023.11.09 ~ 2023.12.08(30일)</p>
