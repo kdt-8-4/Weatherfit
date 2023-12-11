@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=white">
-  #CB3837
   <br/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white">
@@ -72,7 +71,6 @@
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
-  #02303A
   <br/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=spring security&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat&logo=spring boot&logoColor=white">
@@ -90,7 +88,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?&logo=nginx&logoColor=white">
-  #E95420
   <br/><br/>
 
   <p><b>Collab Tools</b></p>
