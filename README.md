@@ -37,7 +37,7 @@
 </ul>
 
 ## 프로젝트 핵심 기능
-<p>...</p>
+<p>공사중...</p>
 
 ## API 명세
 <img src="https://github.com/kdt-8-4/Weatherfit_Backend/assets/118866032/384cd539-909d-4448-892a-9ee459815d5a">
@@ -55,12 +55,14 @@
   <p><b>Frontend</b></p>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=white">
+  #CB3837
   <br/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white">
   <img src="https://img.shields.io/badge/Axios-5A29E4?stype=flat&logo=axios&logoColor=white">
   <img src="https://img.shields.io/badge/Kakaomap-ffcd00?style=flat&logo=kakao&logoColor=white">
-  <img src="https://img.shields.io/badge/Openweather-E64A19?style=flat&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenWeather-E64A19?style=flat&logo=&logoColor=white">
   <br/><br/>
   
   <p><b>Backend</b></p>
@@ -69,6 +71,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
+  #02303A
   <br/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=spring security&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat&logo=spring boot&logoColor=white">
@@ -82,9 +86,11 @@
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?&logo=amazon ec2&logoColor=white">
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?&logo=amazonrds&logoColor=white">
   <img src="https://img.shields.io/badge/AWS S3-569A31?&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?&logo=nginx&logoColor=white">
+  #E95420
   <br/><br/>
 
   <p><b>Collab Tools</b></p>
