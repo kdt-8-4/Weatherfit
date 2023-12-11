@@ -1,20 +1,16 @@
 # Weatherfit
 
-<h3>프로젝트 Repository</h3>
-<hr>
+## 프로젝트 Repository
 <a href="https://github.com/kdt-8-4/Weatherfit_Backend">Backend Repository</a><br/>
 <a href="https://github.com/kdt-8-4/weatherfit-frontend">Frontend Repository</a><br/><br/>
 
-<h3>프로젝트 URL</h3>
-<hr>
+## 프로젝트 URL
 <p>https://weatherfit-frontend.vercel.app/</p><br/>
 
-<h3>진행 기간</h3>
-<hr>
+## 프로젝트 진행기간
 <p>2023.11.09 ~ 2023.12.08(30일)</p>
 
-<h3>프로젝트 소개</h3>
-<hr>
+## 프로젝트 소개
 <h4>문제인식 & 아이디어</h4>
 <ul>
   <li>
@@ -40,23 +36,18 @@
   </li>
 </ul>
 
-<h3>프로젝트 핵심 기능</h3>
-<hr>
+## 프로젝트 핵심 기능
 <p>...</p>
 
-<h3>
-<h3>ERD</h3>
-<hr>
+## ERD
 <img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/ffb4edb4-7c64-4404-b43a-0fdb308076a6">
 <br/><br/>
 
-<h3>시스템 아키텍처</h3>
-<hr>
+## 시스템 아키텍처
 <img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/86ce85e9-1194-4884-862e-a98db115ef89">
 <br/><br/>
 
-<h3>기술 스택</h3>
-<hr>
+## 기술스택
 <div align=center> 
   <p><b>Frontend</b></p>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
@@ -100,8 +91,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white">
 </div>
 
-<h3>팀원</h3>
-<hr>
+## 팀원
 <table>
   <tbody>
     <tr>
