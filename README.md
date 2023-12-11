@@ -1,6 +1,7 @@
 # Weatherfit
 
 <h3>프로젝트 Repository</h3>
+<hr>
 <a href="https://github.com/kdt-8-4/Weatherfit_Backend">Backend Repository</a><br/>
 <a href="https://github.com/kdt-8-4/weatherfit-frontend">Frontend Repository</a><br/><br/>
 
