@@ -1,5 +1,11 @@
 # Weatherfit
 
+## 프로젝트 Repository
+<a href="https://github.com/kdt-8-4/Weatherfit_Backend">Backend Repository</a>
+<a href="https://github.com/kdt-8-4/weatherfit-frontend">Frontend Repository</a>
+
+## 프로젝트 URL
+<p>https://weatherfit-frontend.vercel.app/</p>
 ## ERD
 <img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/ffb4edb4-7c64-4404-b43a-0fdb308076a6">
 <br/><br/>
