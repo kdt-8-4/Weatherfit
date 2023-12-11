@@ -1,20 +1,30 @@
 # Weatherfit
 
-## 프로젝트 Repository
-<a href="https://github.com/kdt-8-4/Weatherfit_Backend">Backend Repository</a>
-<a href="https://github.com/kdt-8-4/weatherfit-frontend">Frontend Repository</a>
+<h3>프로젝트 Repository</h3>
+<a href="https://github.com/kdt-8-4/Weatherfit_Backend">Backend Repository</a><br/>
+<a href="https://github.com/kdt-8-4/weatherfit-frontend">Frontend Repository</a><br/>
 
-## 프로젝트 URL
-<p>https://weatherfit-frontend.vercel.app/</p>
-## ERD
+<h3>프로젝트 URL</h3>
+<p>https://weatherfit-frontend.vercel.app/</p><br/>
+
+<h3>프로젝트 소개</h3>
+<h4>문제인식 & 아이디어</h4>
+<p>
+  최근 몇년간의 날씨의 추이를 살펴보면, 갑작스럽게 더워지거나 추워지거나, 혹은 20도이상 차이나는 큰 일교차와 같이 급격하게 변하는 날씨에 외출 전 옷을 어떻게 입어야 할지 고민을 하는 시간이 길어짐
+  
+  <br/>
+  ㅁㄴㅇ
+</p>
+
+<h3>ERD</h3>
 <img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/ffb4edb4-7c64-4404-b43a-0fdb308076a6">
 <br/><br/>
 
-## 시스템 아키텍처
+<h3>시스템 아키텍처</h3>
 <img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/86ce85e9-1194-4884-862e-a98db115ef89">
 <br/><br/>
 
-## 기술스택
+<h3>기술 스택</h3>
 <div align=center> 
   <p><b>Frontend</b></p>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
@@ -58,7 +68,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white">
 </div>
 
-## 팀원
+<h3>팀원</h3>
 
 <table>
   <tbody>
