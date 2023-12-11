@@ -39,6 +39,9 @@
 ## 프로젝트 핵심 기능
 <p>...</p>
 
+## API 명세
+<img src="https://github.com/kdt-8-4/Weatherfit_Backend/assets/118866032/384cd539-909d-4448-892a-9ee459815d5a">
+
 ## ERD
 <img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/ffb4edb4-7c64-4404-b43a-0fdb308076a6">
 <br/><br/>
