@@ -95,7 +95,7 @@
 </div>
 
 ## 팀원
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/papicc45"><img src="https://github.com/papicc45.png" width="100px;" alt=""/><br /><b>이동준</b></a><br /></td>
