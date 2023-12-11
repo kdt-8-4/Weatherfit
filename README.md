@@ -2,19 +2,22 @@
 
 <h3>프로젝트 Repository</h3>
 <a href="https://github.com/kdt-8-4/Weatherfit_Backend">Backend Repository</a><br/>
-<a href="https://github.com/kdt-8-4/weatherfit-frontend">Frontend Repository</a><br/>
+<a href="https://github.com/kdt-8-4/weatherfit-frontend">Frontend Repository</a><br/><br/>
 
 <h3>프로젝트 URL</h3>
 <p>https://weatherfit-frontend.vercel.app/</p><br/>
 
 <h3>프로젝트 소개</h3>
-<h4>문제인식 & 아이디어</h4>
-<p>
-  최근 몇년간의 날씨의 추이를 살펴보면, 갑작스럽게 더워지거나 추워지거나, 혹은 20도이상 차이나는 큰 일교차와 같이 급격하게 변하는 날씨에 외출 전 옷을 어떻게 입어야 할지 고민을 하는 시간이 길어짐
-  
-  <br/>
-  ㅁㄴㅇ
-</p>
+<ul>
+  문제인식 & 아이디어
+  <li>
+    최근 몇년간의 날씨의 추이를 살펴보면, 갑작스럽게 더워지거나 추워지거나, 혹은 20도이상 차이나는 큰 일교차와 같이 급격하게 변하는 날씨에 외출 전 옷을 어떻게 입어야 할지 고민을 하게 됨
+  </li>
+  <li>
+    자기만의 개성을 가진 여러 패션 브랜드들이 런칭하고, 이러한 정보들을 영상 매체나 온라인 플랫폼에서 다루게되면서, 점점 더 많은 사람들이 패션과 옷 코디에 대해 관심을 가지기 시작함
+  </li>
+</ul>
+
 
 <h3>ERD</h3>
 <img src="https://github.com/kdt-8-4/Weatherfit/assets/118866032/ffb4edb4-7c64-4404-b43a-0fdb308076a6">
