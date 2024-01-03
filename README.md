@@ -37,7 +37,113 @@
 </ul>
 
 ## 프로젝트 핵심 기능
-<p>공사중...</p>
+
+<h3 align="center">메인</h3>
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/fun1ty/letsPark/assets/118866032/62acecda-328a-4b91-ac98-52ae8eedbcd9">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">메인 페이지</td>
+    </tr>
+    <tr>
+      <td align="center">현재 접속한 위치의 날씨정보 제공<br/>실시간 날씨 정보 기반으로 옷 추천과 코디사진을 제공</td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+<h3 align="center">회원가입</h3>
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/fun1ty/letsPark/assets/118866032/7ba8567e-afbe-417b-8ce2-2f20b1711854">
+      </td>
+      <td>
+        <img src="https://github.com/fun1ty/letsPark/assets/118866032/5173ef55-be20-42c0-952b-0886b6bf05c5">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">일반 회원가입</td>
+      <td align="center">소셜 회원가입</td>
+    </tr>
+    <tr>
+      <td align="center">이메일 인증을 통한 일반 회원가입 가능</td>
+      <td align="center">구글 이메일 계정을 통한 회원가입 가능</td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+<h3 align="center">로그인/내정보</h3>
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/fun1ty/letsPark/assets/118866032/4a0c7497-8c35-41f7-82be-b48d9bf682b2">
+      </td>
+      <td>
+        <img src="https://github.com/fun1ty/letsPark/assets/118866032/76196bde-f85e-4ed6-be90-7dcbfeb83d3a">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">로그인</td>
+      <td align="center">내정보/마이페이지</td>
+    </tr>
+    <tr>
+      <td align="center">구글계정 인증을 통한 로그인</td>
+      <td align="center">사용자의 글 관리/좋아요한 게시글, 유저 정보 관리 가능</td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+<h3 align="center">게시글</h3>
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/fun1ty/letsPark/assets/118866032/d0401c65-8b61-446a-82f2-0e885b7afa96">
+      </td>
+      <td>
+        <img src="https://github.com/fun1ty/letsPark/assets/118866032/9c90fe22-f0eb-402f-a140-4f4251e5b6f0">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">게시글 작성</td>
+      <td align="center">게시글 수정</td>
+    </tr>
+    <tr>
+      <td align="center">사진 업로드, 코디한 옷의 카테고리, 해시태그 입력 가능</td>
+      <td align="center">기존에 올렸던 게시글 정보 모두 수정 가능</td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+<h3 align="center">코디 리스트/댓글</h3>
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/papicc45/algo_prac/assets/118866032/cb5b848c-f02d-4fbe-bdcb-dd2ff189b7b4">
+      </td>
+      <td>
+        <img src="https://github.com/fun1ty/letsPark/assets/118866032/451b8009-9de6-46e4-80dc-9153260d6dff">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">게시물 리스트</td>
+      <td align="center">댓글/대댓글</td>
+    </tr>
+    <tr>
+      <td align="center">게시글 정렬, 카테고리/키워드 별 검색 가능</td>
+      <td align="center">댓글과 대댓글 작성, 게시글 좋아요 가능</td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
 
 ## API 명세
 <img src="https://github.com/kdt-8-4/Weatherfit_Backend/assets/118866032/384cd539-909d-4448-892a-9ee459815d5a">
