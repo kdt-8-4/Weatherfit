@@ -218,7 +218,7 @@
       <td align="center">팀장<br/>Backend<br/>Infra<br/></td>
       <td align="center">Backend</td>
       <td align="center">Backend</td>
-      <td align="center">Frontend</td>
+      <td align="center">Frontend 리더</td>
       <td align="center">Frontend</td>
       <td align="center">Frontend</td>
     </tr>
